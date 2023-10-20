@@ -1,0 +1,35 @@
+<html>
+<head>
+<title>Flowershop Gallery</title>
+</head>
+<body>
+<h3 id ="Flowershop Gallery">
+<table align="center" width="200" height="200">
+<caption><center>Gallery</center></caption>
+<tr>
+<td><img src ="orchid.jpg"></td>
+<td><img src ="rose.jpg"></td>
+<td><img src ="lotus.jpg"></td>
+<td><img src ="tulip.jpg"></td>
+</tr>
+<tr>
+<td>orchid</td>
+<td>rose</td>
+<td>lotus</td>
+<td>tulip</td>
+</tr>
+<tr>
+<td><img src ="sun.jpg"></td>
+<td><img src ="hibiscus.jpg"></td>
+<td><img src ="lavender.jpg"></td>
+<td><img src ="daisy.jpg"></td>
+</tr>
+<tr>
+<td>sun</td>
+<td>hibiscus</td>
+<td>lavender</td>
+<td>daisy</td>
+</tr>
+</table>
+<a href="file:///F:/joel%20joju/HTML%20program%202.html"><font color="blue"><h3><b>HOME</font></a><br>
+<h3><a href="#Flowershop Gallery">top
